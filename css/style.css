@@ -1,0 +1,102 @@
+/* Desarrollo Web 1 */
+/* Nombre Práctica: Hola Mundo */
+/* Autor/a: Rulfo Best Diego*/
+/* Fecha de elaboración: 07/02/2023*/
+
+.mx{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    color: #3a86ff;
+    font-size: 100px;
+}
+
+.us{
+    position: absolute;
+    top: 270px;
+    left: 520px;
+    color: #fb5607;
+    font-size: 80px;
+    z-index: 2;
+}
+
+.jp{
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    color: #fb5607;
+    font-size: 75px;
+    z-index: 2;
+}
+
+.it{
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    color: #ffbe0b;
+    font-size: 130px;
+    z-index: 1;
+}
+
+.hw{
+    position: absolute;
+    top: 130px;
+    left: 700px;
+    color: #ff006e;
+    font-size: 140px;
+    z-index: 2;
+}
+
+.ru{
+    position: absolute;
+    top: 90px;
+    left: 950px;
+    color: #ff006e;
+    font-size: 40px;
+    z-index: 2;
+}
+
+.ko{
+    position: absolute;
+    top: 100px;
+    left: 370px;
+    color: #8338ec;
+    font-size: 100px;
+    z-index: 1;
+}
+
+.po{
+    position: absolute;
+    top: 80px;
+    left: 900px;
+    color: #ffbe0b;
+    font-size: 90px;
+    z-index: 2;
+}
+
+.hi{
+    position: absolute;
+    top: 420px;
+    left: 900px;
+    color: #ff006e;
+    font-size: 50px;
+    z-index: 2;
+}
+
+.he{
+    position: absolute;
+    top: 240px;
+    left: 950px;
+    color: #3a86ff;
+    font-size: 110px;
+    z-index: 2;
+}
+
+.sw{
+    position: absolute;
+    top: 200px;
+    left: 1100px;
+    color: #fb5607;
+    font-size: 90px;
+    z-index: 2;
+}
