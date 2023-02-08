@@ -9,6 +9,7 @@
     left: 400px;
     color: #3a86ff;
     font-size: 100px;
+    -webkit-text-stroke: white 1px;
 }
 
 .us{
@@ -18,6 +19,7 @@
     color: #fb5607;
     font-size: 80px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
 
 .jp{
@@ -27,6 +29,7 @@
     color: #fb5607;
     font-size: 75px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
 
 .it{
@@ -36,6 +39,7 @@
     color: #ffbe0b;
     font-size: 130px;
     z-index: 1;
+    -webkit-text-stroke: white 1px;
 }
 
 .hw{
@@ -45,6 +49,7 @@
     color: #ff006e;
     font-size: 140px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
 
 .ru{
@@ -54,6 +59,7 @@
     color: #ff006e;
     font-size: 40px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
 
 .ko{
@@ -63,6 +69,7 @@
     color: #8338ec;
     font-size: 100px;
     z-index: 1;
+    -webkit-text-stroke: white 1px;
 }
 
 .po{
@@ -72,6 +79,7 @@
     color: #ffbe0b;
     font-size: 90px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
 
 .hi{
@@ -81,6 +89,7 @@
     color: #ff006e;
     font-size: 50px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
 
 .he{
@@ -90,6 +99,7 @@
     color: #3a86ff;
     font-size: 110px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
 
 .sw{
@@ -99,4 +109,5 @@
     color: #fb5607;
     font-size: 90px;
     z-index: 2;
+    -webkit-text-stroke: white 1px;
 }
